@@ -36,4 +36,4 @@ jupyter notebook Traffic_Sign_Classifier.ipynb
 ```
 
 ### Implementation
-Implementation is provided in Traffic_Sign_classification.ipynb
+Implementation is provided in [Traffic_Sign_Classification.ipynb](https://github.com/UsmanIjaz/SDC_Traffic_Sign_Classification/blob/master/Traffic_Sign_Classification.ipynb)
